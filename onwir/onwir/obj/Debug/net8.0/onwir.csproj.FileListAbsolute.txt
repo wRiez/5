@@ -1,0 +1,14 @@
+D:\projects\onwir\onwir\bin\Debug\net8.0\onwir.exe
+D:\projects\onwir\onwir\bin\Debug\net8.0\onwir.deps.json
+D:\projects\onwir\onwir\bin\Debug\net8.0\onwir.runtimeconfig.json
+D:\projects\onwir\onwir\bin\Debug\net8.0\onwir.dll
+D:\projects\onwir\onwir\bin\Debug\net8.0\onwir.pdb
+D:\projects\onwir\onwir\obj\Debug\net8.0\onwir.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\onwir\onwir\obj\Debug\net8.0\onwir.AssemblyInfoInputs.cache
+D:\projects\onwir\onwir\obj\Debug\net8.0\onwir.AssemblyInfo.cs
+D:\projects\onwir\onwir\obj\Debug\net8.0\onwir.csproj.CoreCompileInputs.cache
+D:\projects\onwir\onwir\obj\Debug\net8.0\onwir.dll
+D:\projects\onwir\onwir\obj\Debug\net8.0\refint\onwir.dll
+D:\projects\onwir\onwir\obj\Debug\net8.0\onwir.pdb
+D:\projects\onwir\onwir\obj\Debug\net8.0\onwir.genruntimeconfig.cache
+D:\projects\onwir\onwir\obj\Debug\net8.0\ref\onwir.dll
